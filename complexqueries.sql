@@ -1,4 +1,4 @@
-/* Create an automation that anytime an order_items records are inserted into the databse,the orders table is updated as well
+/* Create an automation that anytime an order_items records are inserted into the database,the orders table is updated as well
 */
 CREATE TRIGGER insert_new_orders
 AFTER INSERT ON order_item
