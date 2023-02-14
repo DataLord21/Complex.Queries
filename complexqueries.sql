@@ -46,7 +46,7 @@ END$$
 DELIMITER ;
 select f_highest_salary (11356);
 
-/* Create a procedure that ask you to insert an employee number andt that will obtain an output containing the same number, as well as the numner and name of the last department the employee has worked in
+/* Create a procedure that ask you to insert an employee number and that will obtain an output containing the same number, as well as the number and name of the last department the employee has worked in
 Finally, call the procedure for employee number 10010
 */ 
 
